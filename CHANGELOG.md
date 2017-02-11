@@ -1,3 +1,10 @@
+# 11/02/2017 v0.1.6
+* Repaired right-click on tray icon
+* Repaired invitations screen in wizard
+* Added check for update option in context menu
+* Compatibility with system-wide proxy settings
+* Bumped dependencies
+
 # 30/01/2017 v0.1.5
 
 * Auto-launcher didn't work after the migration to NSIS
