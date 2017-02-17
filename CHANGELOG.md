@@ -15,3 +15,4 @@
 * Migration from Squirrel.Windows to NSIS for installer to build x86/x64 installers for Windows.
 * Tried a workaround for slow machines for the drag&drop on Windows.
 * Switched to winreg for writing in Windows registry to register .seald extension.
+
