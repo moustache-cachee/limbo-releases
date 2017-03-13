@@ -1,4 +1,4 @@
-# 06/03/2017 v0.1.8-0
+# 08/03/2017 v0.1.8
 * Implemented optional silent updates
 * Changed pixelated Windows taskbar icon
 * Implemented contact suggestions
