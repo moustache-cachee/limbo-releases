@@ -1,4 +1,4 @@
-# 01/04/2017 v0.1.11
+# 03/04/2017 v0.1.11
 * Adding 'Extensions' tab in preferences
 * Adding extension for Slack desktop app
 
