@@ -1,11 +1,3 @@
-# 17/07/2017 v0.1.12
-* Adding config option to toggle auto-start on boot
-* New invitation system
-* Interface details
-* Correcting a few quirks here and there
-* Faster encryption
-* Dropping compatibility with Slack desktop app
-
 # 03/04/2017 v0.1.11
 * Adding 'Extensions' tab in preferences
 * Adding extension for Slack desktop app
