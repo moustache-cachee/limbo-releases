@@ -1,7 +1,7 @@
-# 19/06/2018 v0.1.20
-* On Windows, adding a frame to Seald's window, so drag&drop-ing files works much better
+# 02/07/2018 v0.1.20
 * Adding ability to save contacts who do not have Seald yet
 * Adding a progress dialog when decrypting files
+* On Windows, using a close button to hide the window instead of hiding it when losing focus, so drag&drop-ing files works much better
 * Translating the decrypt webpage for people who do not have Seald yet (translation of the app & more languages soon)
 * Add automatic check for file association on app startup & in preference window
 * Fixing a bug for contacts without Seald where previewing a PDF file could fail
