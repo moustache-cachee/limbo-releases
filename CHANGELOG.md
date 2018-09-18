@@ -1,4 +1,4 @@
-# 18/09/2018 v0.1.23
+# 20/09/2018 v0.1.23
 * Fix detection of Outlook installation on some setups
 * Show notification when a contact first reads a message (premium accounts only)
 * Show error when account is revoked
