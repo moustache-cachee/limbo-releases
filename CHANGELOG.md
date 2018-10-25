@@ -1,4 +1,4 @@
-# 22/10/2018 v0.1.25
+# 25/10/2018 v0.1.25
 * When opening an encrypted file, it will now automatically open in the default app, and will be saved in encrypted format automatically when any modifications happen
 * In web decryption interface, add support for previewing images
 * In web decryption interface, allow drag&drop-ing a file to decrypt
