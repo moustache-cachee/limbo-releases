@@ -1,4 +1,4 @@
-# 12/12/2018 v0.1.26
+# 13/12/2018 v0.1.26
 * Opening a Seald file in your browser mistakenly (for example clicking in Chrome download bar) will now be properly forwarded to the Seald app
 * In the web decryption interface, adding the ability to reply to emails (when sent by a premium user)
 * In the Outlook plugin, adding the ability to encrypt only the attachments or everything, and new interface
