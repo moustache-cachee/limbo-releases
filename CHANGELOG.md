@@ -1,4 +1,10 @@
-# 06/02/2019 v0.1.27
+# 26/04/2019 v0.1.28
+* Internationalization of the application
+* History of encrypted files
+* Show access-control page from Outlook
+* Interface details & minor bugs
+
+# 07/02/2019 v0.1.27
 * Add support for admin-configured automatic rules for Outlook plugin
 * Add page to control access to a file, add & revoke (premium only) recipients, and see number of views (premium only)
 * Outlook plugin now adds recipients when forwarding a message
