@@ -1,5 +1,5 @@
 # 26/04/2019 v0.1.28
-* Internationalization of the application
+* Internationalisation of the application
 * History of encrypted files
 * Show access-control page from Outlook
 * Compatibility with new licencing
