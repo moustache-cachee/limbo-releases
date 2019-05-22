@@ -1,3 +1,6 @@
+# 23/05/2019 v0.1.29
+* TODO
+
 # 26/04/2019 v0.1.28
 * Internationalisation of the application
 * History of encrypted files
