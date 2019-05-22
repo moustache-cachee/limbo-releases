@@ -1,5 +1,8 @@
 # 23/05/2019 v0.1.29
-* TODO
+* More stable update system
+* Windows build with option to install globally, file-association on install & cleaner uninstall
+* Fix a crash on the History screen for users of START teams
+* Interface details & minor bugs
 
 # 26/04/2019 v0.1.28
 * Internationalisation of the application
